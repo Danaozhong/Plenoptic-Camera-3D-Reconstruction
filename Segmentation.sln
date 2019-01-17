@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SegmentationDemo", "SegmentationDemo.vcxproj", "{BB2B5D4C-97EC-4C9A-81B0-1A32D3868653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2B5D4C-97EC-4C9A-81B0-1A32D3868653}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB2B5D4C-97EC-4C9A-81B0-1A32D3868653}.Debug|Win32.Build.0 = Debug|Win32
+		{BB2B5D4C-97EC-4C9A-81B0-1A32D3868653}.Release|Win32.ActiveCfg = Release|Win32
+		{BB2B5D4C-97EC-4C9A-81B0-1A32D3868653}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
