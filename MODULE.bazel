@@ -1,0 +1,6 @@
+module(name = "plenoptic-camera-3d-reconstruction", version = "1.0")
+
+# TODO need to add the dependencies to OpenCV
+#bazel_dep(name = "rules_cc", version = "0.0.1")
+bazel_dep(name = "pcl", version = "1.14.1")
+bazel_dep(name = "eigen", version = "4.0.0-20241125")
